@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = syamada789@gmail.com
+	name = Sean Yamada
